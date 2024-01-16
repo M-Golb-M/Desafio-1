@@ -1,0 +1,46 @@
+@media (max-width: 450px){
+    html{
+        font-size: 8px;
+    }
+
+    .content{
+
+        width: 180px;
+        height: 300px;
+    }
+    .img{
+        height: 100px;
+        border-radius: 15px;
+    }
+    .endreus{
+        display: flex;
+       
+    }
+    span#lear{
+        width: 50px;
+        height: 5px;
+        border-radius: 5px;
+    }
+    span#HT{
+        font-size: 13px;
+    }
+    .img2{
+      height: 30px;
+      width: 30px;
+      margin-top: -13px;
+       
+    }
+    span#des{
+     margin-top: -13px;
+    }
+    .nome{
+        margin-top: -10px;
+        
+    }
+    
+    
+
+
+
+}
+

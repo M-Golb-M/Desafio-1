@@ -1,0 +1,97 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Figtree:wght@300&display=swap');
+
+  *{
+    padding: 0;
+    margin: 0;
+    font-family: Figtree;
+}
+
+
+body{
+    background-color:  hsl(47, 88%, 63%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+   
+    
+       
+}
+.content{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow:10px 10px 0px black;
+    border: 1px black solid;
+    width: 365px;
+    height: 520px;
+    display: flex;
+    flex-direction: column;
+    
+    
+
+ 
+}
+ .img{
+    width: 350px;
+    margin: 5px;
+ }
+
+ span#lear{
+    background-color: hsl(47, 88%, 63%) ;
+    width: 70px;
+    height: 20px;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    font-weight: 600;
+    
+ }
+ span#pb{
+    
+    font-weight: 800;
+    padding: 10px;
+ }
+ span#HT{
+    
+    font-weight: bolder;
+    font-size: 1.5em;
+    padding: 2px;
+    padding: 10px;
+ }  
+ span#HT:hover{
+    color: yellow;
+    cursor: pointer;
+    padding: 10px;
+ }
+ span#des{
+    padding: 10px;
+    text-align: justify;
+    color:hsl(0, 0%, 50%);
+}
+    
+ 
+ .img2{
+    padding: 10px;
+    width: 40px;
+    margin-top: -5px;
+ }
+ .nome{
+    padding: 15px;
+    font-weight: 600;
+    margin-left: -15px;
+ }
+ .geral{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+ }
+ .foteta{
+    display: flex;
+    flex-direction: row;
+ }
+ 
